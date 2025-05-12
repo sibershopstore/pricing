@@ -102,7 +102,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'search-engine-optimization',
     title: 'Search Engine Optimization',
-    price: '300rb',
+    price: '560rb',
     description: '',
     features: ['SEO Web', 'SEO Artikel', 'Technical SEO', 'SEO Lokal'],
     badge: 'TERLARIS',
@@ -146,7 +146,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'it-consultant',
     title: 'IT Consultant',
-    price: '250rb',
+    price: 'N/A',
     description: '',
     features: ['Cyber Crime', 'Penipuan', 'Pemerasan', 'Scamming'],
     badge: 'HOT SALE',
