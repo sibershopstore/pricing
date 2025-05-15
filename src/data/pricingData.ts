@@ -102,7 +102,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'search-engine-optimization',
     title: 'Search Engine Optimization',
-    price: '560rb',
+    price: '550rb',
     description: '',
     features: ['SEO Web', 'SEO Artikel', 'Technical SEO', 'SEO Lokal'],
     badge: 'TERLARIS',
@@ -121,7 +121,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'remove-search-engine',
     title: 'Remove Search Engine',
-    price: '450rb',
+    price: '300rb',
     description: '',
     features: [
       'Hapus Identitas di Google', 
