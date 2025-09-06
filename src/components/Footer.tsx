@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <div className="flex items-center mb-4">
-              <img src="https://i.ibb.co/1J40qgFk/ssbgputih.png" alt="Siber Shop Store" className="h-6 w-6 mr-2" />
+              <img src="https://iili.io/Kn7ty0B.png" alt="Siber Shop Store" className="h-6 w-6 mr-2" />
               <h3 className="font-bold text-xl">Siber Shop Store</h3>
             </div>
             <p className="text-gray-400 mb-4">
