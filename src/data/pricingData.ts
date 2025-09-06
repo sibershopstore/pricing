@@ -7,7 +7,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'FB & IG',
     price: '150rb',
     description: 'Hapus Akun TerkenaHack Sekarang!',
-    features: ['Proses cepat', 'Privacy 100%', 'Bisa bayar diakhir'],
+    features: ['Proses cepat', 'Privacy 100%', 'legal'],
     category: 'social',
     badge: 'TERPOPULER'
   },
@@ -16,7 +16,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'FB / IG / X',
     price: '100rb',
     description: 'Hapus Akunmu Sekarang!',
-    features: ['Proses cepat', 'Privacy 100%', 'Bisa bayar diakhir'],
+    features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     category: 'social',
     badge: 'TERLARIS'
   },
@@ -25,7 +25,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'LinkedIn',
     price: '200rb',
     description: 'Hapus Akunmu Sekarang!',
-    features: ['Proses cepat', 'Privacy 100%', 'Bisa bayar diakhir'],
+    features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     badge: 'TERPOPULER',
     category: 'social'
   },
@@ -34,7 +34,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'SoundCloud / Pinterest',
     price: '150rb',
     description: 'Hapus Akunmu Sekarang!',
-    features: ['Proses cepat', 'Privacy 100%', 'Bisa bayar diakhir'],
+    features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     badge: 'NEW',
     category: 'social'
   },
@@ -121,13 +121,13 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'remove-search-engine',
     title: 'Remove Search Engine',
-    price: '300rb',
+    price: '350rb',
     description: '',
     features: [
       'Hapus Identitas di Google', 
       'Hapus Akun Sosmed di Google', 
       'Hapus Konten/Web Kriminal/Porn', 
-      'Link Kadarluasa'
+      'Situs Judi Online'
     ],
     badge: 'TERPOPULER',
     category: 'seo'
