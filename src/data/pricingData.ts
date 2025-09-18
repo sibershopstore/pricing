@@ -73,7 +73,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'hapus-situs-blog',
     title: 'Hapus Situs Blog',
-    price: '250rb',
+    price: '350rb',
     description: '',
     features: ['Blog Pribadi', 'Blog Berita', 'Blog Company', 'Blog Portofolio'],
     badge: 'HOT SALE',
