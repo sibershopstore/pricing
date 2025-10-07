@@ -121,4 +121,4 @@ Our services are organized into the following main categories:
 
 ---
 
-*This README is for the GitHub repository of the Siber Shop Store Pricing page. For the live pricing page, please visit [https://sibershopstorepricing.netlify.app/](https://sibershopstorepricing.netlify.app/).*
+*This README is for the GitHub repository of the Siber Shop Store Pricing page. For the live pricing page, please visit [https://pricing.sibershopstore.com/](https://pricing.sibershopstore.com/).*
