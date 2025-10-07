@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the Siber Shop Store Pricing repository. This repository contains the source code and assets for our comprehensive pricing landing page, designed to showcase our diverse range of digital services and transparent pricing structure. The live version can be accessed at [https://sibershopstorepricing.netlify.app/](https://sibershopstorepricing.netlify.app/).
+Welcome to the Siber Shop Store Pricing repository. This repository contains the source code and assets for our comprehensive pricing landing page, designed to showcase our diverse range of digital services and transparent pricing structure. The live version can be accessed at [https://pricing.sibershopstore.com/](https://pricing.sibershopstore.com/).
 
 Siber Shop Store is a registered startup specializing in digital IT services. We are officially registered with AHU and committed to providing high-quality services to meet your digital needs. Our pricing page is designed to offer clear, transparent information about our service offerings and their respective costs.
 
