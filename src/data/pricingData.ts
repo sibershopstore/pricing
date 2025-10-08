@@ -52,7 +52,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Hapus Data Getcontact',
     price: '500rb',
     description: 'Hapus datamu Sekarang!',
-    features: ['Tag Pagert', 'Komentar', 'Privacy 100&'],
+    features: ['Tag Pager', 'Komentar', 'Privacy 100&'],
     badge: 'NEW',
     category: 'social'
   },
