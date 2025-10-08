@@ -38,7 +38,33 @@ export const pricingPlans: PricingPlan[] = [
     badge: 'NEW',
     category: 'social'
   },
-  
+  {
+    id: 'Tiktok',
+    title: 'Tiktok',
+    price: '350rb',
+    description: 'Hapus Akunmu Sekarang!',
+    features: ['Proses cepat', 'Privacy 100%', 'Legal'],
+    badge: 'NEW',
+    category: 'social'
+  },
+  {
+    id: 'hapus-data-getcontact',
+    title: 'Hapus Data Getcontact',
+    price: '500rb',
+    description: 'Hapus datamu Sekarang!',
+    features: ['Tag Pagert', 'Komentar', 'Privacy 100&'],
+    badge: 'NEW',
+    category: 'social'
+  },
+  {
+    id: 'hapus-pencarian-google',
+    title: 'Hapus Situs di Google',
+    price: '1jt',
+    description: 'Hapus situs yang menganggu di pencarian google!',
+    features: ['Situs Berita', 'Situs Pengadilan', 'Privacy 100&'],
+    badge: 'NEW',
+    category: 'social'
+  },
   // Web Development Category
   {
     id: 'blog-pribadi',
