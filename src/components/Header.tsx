@@ -33,7 +33,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center">
             <Link to="/" className="flex items-center"> 
-              <img src="https://iili.io/Kn7ty0B.png" alt="Siber Shop Store" className="h-8 w-8 mr-2" />
+              <img src="https://iili.io/KNgdBZF.png" alt="Siber Shop Store" className="h-8 w-8 mr-2" />
               <span className="text-xl font-bold">Siber Shop Store</span>
             </Link>
           </div>
