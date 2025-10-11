@@ -93,7 +93,7 @@ export const pricingPlans: PricingPlan[] = [
     price: '20jt',
     originalPrice: '25jt',
     description: '',
-    features: ['CMS Wordpress', 'Domain com/id', 'Template Premium', 'SEO One Page'],
+    features: ['Cloud Hosting', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'TERMURAH',
     category: 'web'
   },
