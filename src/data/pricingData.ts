@@ -80,8 +80,8 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'toko-online',
     title: 'Toko Online',
-    price: '6jt',
-    originalPrice: '10jt',
+    price: '10jt',
+    originalPrice: '15jt',
     description: '',
     features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'HOT SALE',
@@ -90,8 +90,8 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'company-profile',
     title: 'Company Profile',
-    price: '10jt',
-    originalPrice: '15jt',
+    price: '20jt',
+    originalPrice: '25jt',
     description: '',
     features: ['CMS Wordpress', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'TERMURAH',
