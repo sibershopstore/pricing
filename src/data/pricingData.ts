@@ -149,6 +149,7 @@ export const pricingPlans: PricingPlan[] = [
     id: 'remove-search-engine',
     title: 'Remove Search Engine',
     price: '350rb',
+    originalPrice:'500rb',
     description: '',
     features: [
       'Hapus Identitas di Google', 
