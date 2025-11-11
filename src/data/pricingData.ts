@@ -7,7 +7,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'FB & IG',
     price: '300rb',
     description: 'Hapus Akun TerkenaHack Sekarang!',
-    features: ['Proses cepat', 'Privacy 100%', 'legal'],
+    features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     category: 'social',
     badge: 'TERPOPULER'
   },
