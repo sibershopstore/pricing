@@ -72,7 +72,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Blog Pribadi',
     price: '4jt',
     originalPrice: '5jt',
-    description: 'Cocok Untuk Vlogger dan Blog Pribadi',
+    description: 'Cocok Untuk Vlogger dan Blog Pribadi, Free Domain',
     features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'TERLARIS',
     category: 'web'
@@ -82,7 +82,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Toko Online',
     price: '10jt',
     originalPrice: '15jt',
-    description: 'Cocok Untuk Artikel Jurnalis, dan Content Creator',
+    description: 'Cocok Untuk Pemula yang baru bangun Bisnis, Free Domain, Template',
     features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'HOT SALE',
     category: 'web'
