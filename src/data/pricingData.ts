@@ -41,7 +41,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'Tiktok',
     title: 'Tiktok',
-    price: '350rb',
+    price: '250rb',
     description: 'Hapus Akunmu Sekarang!',
     features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     badge: 'NEW',
@@ -72,7 +72,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Blog Pribadi',
     price: '4jt',
     originalPrice: '5jt',
-    description: '',
+    description: 'Cocok Untuk Vlogger dan Blog Pribadi',
     features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'TERLARIS',
     category: 'web'
@@ -82,7 +82,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Toko Online',
     price: '10jt',
     originalPrice: '15jt',
-    description: '',
+    description: 'Cocok Untuk Artikel Jurnalis, dan Content Creator',
     features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'HOT SALE',
     category: 'web'
