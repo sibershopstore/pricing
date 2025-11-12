@@ -18,7 +18,7 @@ export const faqData: FAQItem[] = [
   },
   {
     question: 'Apa saja metode pembayaran yang tersedia?',
-    answer: 'Kami menerima pembayaran melalui transfer bank, e-wallet (OVO, GoPay, DANA), dan pembayaran melalui virtual account.',
+    answer: 'Kami menerima pembayaran melalui transfer bank Atas Nama Siber Shop Teknologi Indonesia, Bank BCA dan Mandiri.',
     category: 'Syarat & Ketentuan'
   },
   {
