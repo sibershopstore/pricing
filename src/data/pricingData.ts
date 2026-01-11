@@ -59,8 +59,8 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'hapus-pencarian-google',
     title: 'Hapus Pencarian situs di Google',
-    price: '800rb',
-    originalPrice: '1jt',
+    price: '2jt',
+    originalPrice: '3jt',
     description: 'Hapus situs yang menganggu di pencarian google!',
     features: ['Situs Berita', 'Situs Pengadilan', 'Privacy 100%'],
     badge: 'NEW',
