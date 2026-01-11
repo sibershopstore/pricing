@@ -79,7 +79,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 mr-2 text-blue-400 flex-shrink-0 mt-0.5" />
-                <span>sibershop.store@gmail.com</span>
+                <span>support@sibershopstore.com</span>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 text-blue-400 flex-shrink-0 mt-0.5" />
