@@ -74,14 +74,14 @@ const Footer: React.FC = () => {
             <h3 className="font-bold text-lg mb-4">Kontak</h3>
             <ul className="space-y-4 text-gray-400">
               <li className="flex items-start">
-  <Phone className="h-5 w-5 mr-2 text-blue-400 flex-shrink-0 mt-0.5" />
+  <Phone className="h-5 w-5 mr-2 text-blue-400 flex-shrink-0 mt-0.5" />WhatsApp:
   <a
     href="https://wa.me/6285174155134?text=Halo%20Siber%20Shop%20Store%2C%20saya%20ingin%20konsultasi%20layanan."
     target="_blank"
     rel="noopener noreferrer"
     className="hover:underline"
   >
-    WhatsApp: +62 851-7415-5134
+     +62 851-7415-5134
   </a>
 </li>
 
