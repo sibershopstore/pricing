@@ -51,6 +51,7 @@ export const pricingPlans: PricingPlan[] = [
     id: 'scribd',
     title: 'Hapus Dokumen Scribd',
     price: '250rb',
+    originalPrice: '350rb',
     description: 'Hapus Dokumen sensitif sekarang!',
     features: ['Dokumen Pribadi', 'Dokumen Perusahaan', 'Dokumen Negatif'],
     badge: 'HOT SALE',
