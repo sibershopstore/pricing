@@ -14,7 +14,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'hapus-konten-viral',
     title: 'Hapus Konten Viral',
-    price: '1jt',
+    price: 'N/A',
     description: 'Hapus konten merugikan',
     features: ['Media Sosial', 'Portal Berita', 'Analisa Kasus', 'Privacy'],
     badge: 'HOT SALE',
@@ -23,7 +23,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'take-down-konten-palsu',
     title: 'Take Down Konten Palsu',
-    price: '750rb',
+    price: '5jt',
     description: 'Hapus konten penipuan',
     features: ['Akun Palsu', 'Konten Scam', 'Brand Protection', 'Privacy'],
     badge: 'TERLARIS',
