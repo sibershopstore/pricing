@@ -106,11 +106,21 @@ export const pricingPlans: PricingPlan[] = [
     badge: 'TERMURAH',
     category: 'web'
   },
+   {
+    id: 'komentar',
+    title: 'Hapus Komentar',
+    price: '350rb',
+    originalPrice: '150rb',
+    description: 'Hapus Komentar Negatif di sosial media jaga reputasi mu!',
+    features: ['Instagram', 'Facebook', 'Google Maps', 'Threads'],
+    badge: 'TERMURAH',
+    category: 'social'
+  },
   {
     id: 'hapus-situs-blog',
     title: 'Hapus Situs Blog',
     price: '350rb',
-    description: 'Hapus Situs Blog yang mengganggu sekarang!',
+    description: 'Hapus Situs Blog yang mengganggu reputasi onlinemu sekarang!',
     features: ['Blog Pribadi', 'Blog Berita', 'Blog Company', 'Blog Portofolio'],
     badge: 'HOT SALE',
     category: 'web'
