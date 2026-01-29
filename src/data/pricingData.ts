@@ -101,7 +101,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Company Profile',
     price: '20jt',
     originalPrice: '25jt',
-    description: '',
+    description: 'Buat Company Profile webiste kamu muncul di One Page Google sekarang!',
     features: ['Cloud Hosting', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'TERMURAH',
     category: 'web'
@@ -110,7 +110,7 @@ export const pricingPlans: PricingPlan[] = [
     id: 'hapus-situs-blog',
     title: 'Hapus Situs Blog',
     price: '350rb',
-    description: '',
+    description: 'Hapus Situs Blog yang mengganggu sekarang!',
     features: ['Blog Pribadi', 'Blog Berita', 'Blog Company', 'Blog Portofolio'],
     badge: 'HOT SALE',
     category: 'web'
