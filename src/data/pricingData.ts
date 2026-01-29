@@ -3,6 +3,15 @@ import { PricingPlan } from '../types';
 export const pricingPlans: PricingPlan[] = [
   // ================= SOCIAL =================
   {
+    id: 'hapus-review-negatif',
+    title: 'Hapus Review Negatif',
+    price: '500rb',
+    description: 'Hapus ulasan merugikan',
+    features: ['Google Maps', 'Marketplace', 'Facebook', 'Privacy'],
+    badge: 'TERLARIS',
+    category: 'social'
+  },
+  {
     id: 'fb-ig',
     title: 'FB & Instagram',
     price: '300rb',
@@ -39,6 +48,15 @@ export const pricingPlans: PricingPlan[] = [
     category: 'social'
   },
   {
+    id: 'soundcloud-pinterest',
+    title: 'SoundCloud / Pinterest',
+    price: '150rb',
+    description: 'Hapus akun kreator',
+    features: ['Proses Cepat', 'Privacy 100%', 'Legal', 'Support'],
+    badge: 'NEW',
+    category: 'social'
+  },
+  {
     id: 'tiktok',
     title: 'TikTok',
     price: '250rb',
@@ -58,7 +76,46 @@ export const pricingPlans: PricingPlan[] = [
     category: 'social'
   },
 
-  // ================= WEB (HAPUS / BUAT WEBSITE) =================
+  // ================= WEB =================
+  {
+    id: 'blog-pribadi',
+    title: 'Blog Pribadi',
+    price: '4jt',
+    originalPrice: '5jt',
+    description: 'Website blog pribadi',
+    features: ['WordPress', 'Domain', 'Template', 'SEO'],
+    badge: 'TERLARIS',
+    category: 'web'
+  },
+  {
+    id: 'toko-online',
+    title: 'Toko Online',
+    price: '10jt',
+    originalPrice: '15jt',
+    description: 'Website jualan online',
+    features: ['E-Commerce', 'Payment', 'Produk', 'SEO'],
+    badge: 'HOT SALE',
+    category: 'web'
+  },
+  {
+    id: 'company-profile',
+    title: 'Company Profile',
+    price: '20jt',
+    originalPrice: '25jt',
+    description: 'Website perusahaan profesional',
+    features: ['Company Page', 'Branding', 'Hosting', 'SEO'],
+    badge: 'TERMURAH',
+    category: 'web'
+  },
+  {
+    id: 'presentation',
+    title: 'Presentation',
+    price: '250rb',
+    description: 'Presentasi cepat profesional',
+    features: ['Kerja', 'Sekolah', 'Kuliah', 'Meeting'],
+    badge: 'NEW',
+    category: 'web'
+  },
   {
     id: 'scribd',
     title: 'Hapus Dokumen Scribd',
@@ -107,47 +164,6 @@ export const pricingPlans: PricingPlan[] = [
     category: 'web'
   },
 
-  // ====== BUAT WEBSITE (INI YANG TADI KURANG) ======
-  {
-    id: 'blog-pribadi',
-    title: 'Blog Pribadi',
-    price: '4jt',
-    originalPrice: '5jt',
-    description: 'Website blog pribadi',
-    features: ['WordPress', 'Domain', 'Template Premium', 'SEO'],
-    badge: 'TERLARIS',
-    category: 'web'
-  },
-  {
-    id: 'toko-online',
-    title: 'Toko Online',
-    price: '10jt',
-    originalPrice: '15jt',
-    description: 'Website jualan online',
-    features: ['E-Commerce', 'Payment', 'Produk', 'SEO'],
-    badge: 'HOT SALE',
-    category: 'web'
-  },
-  {
-    id: 'company-profile',
-    title: 'Company Profile',
-    price: '20jt',
-    originalPrice: '25jt',
-    description: 'Website perusahaan profesional',
-    features: ['Company Page', 'Branding', 'Hosting', 'SEO'],
-    badge: 'TERMURAH',
-    category: 'web'
-  },
-  {
-    id: 'presentation',
-    title: 'Presentation',
-    price: '250rb',
-    description: 'Presentasi cepat profesional',
-    features: ['Kerja', 'Sekolah', 'Kuliah', 'Meeting'],
-    badge: 'NEW',
-    category: 'web'
-  },
-
   // ================= SEO =================
   {
     id: 'seo',
@@ -170,6 +186,15 @@ export const pricingPlans: PricingPlan[] = [
   },
 
   // ================= SUPPORT =================
+  {
+    id: 'monitoring-reputasi',
+    title: 'Monitoring Reputasi Digital',
+    price: '1jt',
+    description: 'Pantau reputasi online',
+    features: ['Google Alert', 'Media Sosial', 'Laporan', 'Support'],
+    badge: 'HOT SALE',
+    category: 'support'
+  },
   {
     id: 'recovery-file',
     title: 'Recovery File',
