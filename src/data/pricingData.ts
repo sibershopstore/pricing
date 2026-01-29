@@ -121,7 +121,7 @@ export const pricingPlans: PricingPlan[] = [
     id: 'hapus-situs-blog',
     title: 'Hapus Situs Blog',
     price: '350rb',
-    description: 'Hapus Situs Blog yang mengganggu reputasi onlinemu sekarang!',
+    description: 'Hapus Situs Blog yang mengganggu sekarang!',
     features: ['Blog Pribadi', 'Blog Berita', 'Blog Company', 'Blog Portofolio'],
     badge: 'HOT SALE',
     category: 'web'
