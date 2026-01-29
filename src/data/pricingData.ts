@@ -39,15 +39,6 @@ export const pricingPlans: PricingPlan[] = [
     category: 'social'
   },
   {
-    id: 'soundcloud-pinterest',
-    title: 'SoundCloud / Pinterest',
-    price: '150rb',
-    description: 'Hapus akun platform kreator',
-    features: ['Proses Cepat', 'Privacy 100%', 'Legal', 'Support'],
-    badge: 'NEW',
-    category: 'social'
-  },
-  {
     id: 'tiktok',
     title: 'TikTok',
     price: '250rb',
@@ -67,7 +58,7 @@ export const pricingPlans: PricingPlan[] = [
     category: 'social'
   },
 
-  // ================= WEB =================
+  // ================= WEB (HAPUS / BUAT WEBSITE) =================
   {
     id: 'scribd',
     title: 'Hapus Dokumen Scribd',
@@ -115,6 +106,38 @@ export const pricingPlans: PricingPlan[] = [
     badge: 'TERPOPULER',
     category: 'web'
   },
+
+  // ====== BUAT WEBSITE (INI YANG TADI KURANG) ======
+  {
+    id: 'blog-pribadi',
+    title: 'Blog Pribadi',
+    price: '4jt',
+    originalPrice: '5jt',
+    description: 'Website blog pribadi',
+    features: ['WordPress', 'Domain', 'Template Premium', 'SEO'],
+    badge: 'TERLARIS',
+    category: 'web'
+  },
+  {
+    id: 'toko-online',
+    title: 'Toko Online',
+    price: '10jt',
+    originalPrice: '15jt',
+    description: 'Website jualan online',
+    features: ['E-Commerce', 'Payment', 'Produk', 'SEO'],
+    badge: 'HOT SALE',
+    category: 'web'
+  },
+  {
+    id: 'company-profile',
+    title: 'Company Profile',
+    price: '20jt',
+    originalPrice: '25jt',
+    description: 'Website perusahaan profesional',
+    features: ['Company Page', 'Branding', 'Hosting', 'SEO'],
+    badge: 'TERMURAH',
+    category: 'web'
+  },
   {
     id: 'presentation',
     title: 'Presentation',
@@ -143,16 +166,6 @@ export const pricingPlans: PricingPlan[] = [
     description: 'Backlink berkualitas aman',
     features: ['Blog', 'Retail', 'Teknologi', 'Berita'],
     badge: 'TERMURAH',
-    category: 'seo'
-  },
-  {
-    id: 'remove-search-engine',
-    title: 'Remove Search Engine',
-    price: '400rb',
-    originalPrice: '500rb',
-    description: 'Hapus identitas google',
-    features: ['Data Pribadi', 'Akun Sosmed', 'Konten Negatif', 'Situs Judi'],
-    badge: 'TERPOPULER',
     category: 'seo'
   },
 
@@ -189,9 +202,9 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'digital-marketing',
     title: 'Digital Marketing',
-    price: 'N/A',
+    price: '250rb',
     description: 'Promosi bisnis digital',
-    features: ['Email Marketing', 'SEM', 'SEO Sosmed', 'Press Release'],
+    features: ['Email', 'SEM', 'SEO Sosmed', 'Press Release'],
     badge: 'TERMURAH',
     category: 'marketing'
   },
