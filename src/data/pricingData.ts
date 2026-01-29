@@ -23,7 +23,8 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'take-down-konten-palsu',
     title: 'Take Down Konten Palsu',
-    price: '5jt',
+    price: '3,5jt',
+    originalPrice: '5jt',
     description: 'Hapus konten penipuan',
     features: ['Akun Palsu', 'Konten Scam', 'Brand Protection', 'Privacy'],
     badge: 'TERLARIS',
