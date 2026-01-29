@@ -93,7 +93,7 @@ export const pricingPlans: PricingPlan[] = [
     price: '10jt',
     originalPrice: '15jt',
     description: 'Cocok Untuk Pemula yang baru bangun Bisnis, Free Domain, Template',
-    features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
+    features: ['Hosting', 'Domain com/id', 'Template Premium', 'SEO One Page'],
     badge: 'HOT SALE',
     category: 'web'
   },
