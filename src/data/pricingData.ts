@@ -247,7 +247,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'digital-marketing',
     title: 'Digital Marketing',
-    price: '250rb',
+    price: 'N/A',
     description: 'Promosi bisnis digital',
     features: ['Email', 'SEM', 'SEO Sosmed', 'Press Release'],
     badge: 'TERMURAH',
