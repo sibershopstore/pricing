@@ -90,7 +90,7 @@ export const pricingPlans: PricingPlan[] = [
     price: '150rb',
     originalPrice: '350rb',
     description: 'Hapus komentar negatif',
-    features: ['Instagram', 'Facebook', 'Google Maps', 'Threads'],
+    features: ['Instagram', 'Facebook', 'X', 'Threads'],
     badge: 'TERMURAH',
     category: 'social'
   },
