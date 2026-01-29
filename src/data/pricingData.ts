@@ -62,7 +62,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Hapus Data Getcontact',
     price: '500rb',
     description: 'Hapus datamu yang muncul di getcontact Sekarang!',
-    features: ['Tag Pager', 'Komentar', 'Privacy 100&'],
+    features: ['Tag Pager', 'Komentar', 'Informasi kontak', 'Privacy 100&'],
     badge: 'NEW',
     category: 'social'
   },
@@ -71,9 +71,9 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Hapus Pencarian situs di Google',
     price: '6jt',
     originalPrice: '9jt',
-    description: 'Hapus situs yang menganggu di pencarian google!',
-    features: ['Situs Berita', 'Situs Pengadilan', 'Privacy 100%'],
-    badge: 'NEW',
+    description: 'Hapus Artikel/situs yang menganggu di pencarian google!',
+    features: ['Situs Berita', 'Situs Pengadilan', 'Privacy 100%', 'Tim Legal'],
+    badge: 'TERLARIS',
     category: 'social'
   },
   // Web Development Category
