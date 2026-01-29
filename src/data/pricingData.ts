@@ -1,39 +1,39 @@
 import { PricingPlan } from '../types';
 
 export const pricingPlans: PricingPlan[] = [
-  // Social Media Category
+  // ================= SOCIAL MEDIA =================
   {
     id: 'fb-ig',
-    title: 'FB & IG',
+    title: 'FB & Instagram',
     price: '300rb',
-    description: 'Hapus Akun TerkenaHack Sekarang!',
+    description: 'Hapus akun Facebook & Instagram yang terkena hack.',
     features: ['Proses cepat', 'Privacy 100%', 'Legal'],
-    category: 'social',
-    badge: 'TERPOPULER'
+    badge: 'TERPOPULER',
+    category: 'social'
   },
   {
     id: 'fb-ig-x',
     title: 'FB / IG / X',
     price: '100rb',
-    description: 'Hapus Akunmu Sekarang!',
+    description: 'Hapus akun media sosialmu sekarang.',
     features: ['Proses cepat', 'Privacy 100%', 'Legal'],
-    category: 'social',
-    badge: 'TERLARIS'
+    badge: 'TERLARIS',
+    category: 'social'
   },
   {
-    id: 'fb-ig-x',
+    id: 'hapus-akun-negatif',
     title: 'Hapus Akun Negatif',
     price: 'N/A',
-    description: 'Hapus Akun Negatif Sekarang!',
+    description: 'Penanganan akun negatif sesuai kebijakan platform.',
     features: ['Instagram', 'Facebook', 'Privacy 100%'],
-    category: 'social',
-    badge: 'HOT SALE'
+    badge: 'HOT SALE',
+    category: 'social'
   },
   {
     id: 'linkedin',
     title: 'LinkedIn',
     price: '200rb',
-    description: 'Hapus Akunmu Sekarang!',
+    description: 'Hapus akun LinkedIn secara legal dan aman.',
     features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     badge: 'TERPOPULER',
     category: 'social'
@@ -42,124 +42,86 @@ export const pricingPlans: PricingPlan[] = [
     id: 'soundcloud-pinterest',
     title: 'SoundCloud / Pinterest',
     price: '150rb',
-    description: 'Hapus Akunmu Sekarang!',
+    description: 'Hapus akun SoundCloud & Pinterest.',
     features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     badge: 'NEW',
     category: 'social'
   },
   {
-    id: 'Tiktok',
-    title: 'Tiktok',
+    id: 'tiktok',
+    title: 'TikTok',
     price: '250rb',
-    description: 'Hapus Akunmu Sekarang!',
+    description: 'Hapus akun TikTok dengan aman.',
     features: ['Proses cepat', 'Privacy 100%', 'Legal'],
     badge: 'NEW',
     category: 'social'
   },
-   {
+  {
+    id: 'hapus-komentar',
+    title: 'Hapus Komentar',
+    price: '150rb',
+    originalPrice: '350rb',
+    description: 'Hapus komentar negatif untuk menjaga reputasi.',
+    features: ['Instagram', 'Facebook', 'Google Maps', 'Threads'],
+    badge: 'TERMURAH',
+    category: 'social'
+  },
+
+  // ================= WEB / CONTENT =================
+  {
     id: 'scribd',
     title: 'Hapus Dokumen Scribd',
     price: '250rb',
     originalPrice: '350rb',
-    description: 'Hapus Dokumen sensitif sekarang!',
+    description: 'Hapus dokumen sensitif dari Scribd.',
     features: ['Dokumen Pribadi', 'Dokumen Perusahaan', 'Dokumen Negatif'],
     badge: 'HOT SALE',
     category: 'web'
   },
   {
-    id: 'hapus-data-getcontact',
-    title: 'Hapus Data Getcontact',
+    id: 'getcontact',
+    title: 'Hapus Data GetContact',
     price: '500rb',
-    description: 'Hapus datamu yang muncul di getcontact Sekarang!',
-    features: ['Tag Pager', 'Komentar', 'Informasi kontak', 'Privacy 100&'],
+    description: 'Hapus data pribadimu dari GetContact.',
+    features: ['Tag Caller', 'Komentar', 'Informasi Kontak', 'Privacy 100%'],
     badge: 'NEW',
-    category: 'social'
+    category: 'web'
   },
   {
-    id: 'hapus-pencarian-google',
-    title: 'Hapus Pencarian di Google',
+    id: 'hapus-google',
+    title: 'Hapus Pencarian Google',
     price: '6jt',
     originalPrice: '9jt',
-    description: 'Hapus Artikel/situs yang mengganggu di pencarian google!',
+    description: 'Hapus artikel atau situs dari hasil pencarian Google.',
     features: ['Situs Berita', 'Situs Pengadilan', 'Privacy 100%', 'Tim Legal'],
     badge: 'TERLARIS',
-    category: 'social'
-  },
-  // Web Development Category
-  {
-    id: 'blog-pribadi',
-    title: 'Blog Pribadi',
-    price: '4jt',
-    originalPrice: '5jt',
-    description: 'Cocok Untuk Vlogger dan Blog Pribadi, Free Domain',
-    features: ['CMS (Blogger/Wordpress)', 'Domain com/id', 'Template Premium', 'SEO One Page'],
-    badge: 'TERLARIS',
     category: 'web'
   },
   {
-    id: 'toko-online',
-    title: 'Toko Online',
-    price: '10jt',
-    originalPrice: '15jt',
-    description: 'Cocok Untuk Pemula yang baru bangun Bisnis, Free Domain, Template',
-    features: ['Hosting', 'Domain com/id', 'Template Premium', 'SEO One Page'],
-    badge: 'HOT SALE',
-    category: 'web'
-  },
-  {
-    id: 'company-profile',
-    title: 'Company Profile',
-    price: '20jt',
-    originalPrice: '25jt',
-    description: 'Buat Company Profile webiste kamu muncul di One Page Google sekarang!',
-    features: ['Cloud Hosting', 'Domain com/id', 'Template Premium', 'SEO One Page'],
-    badge: 'TERMURAH',
-    category: 'web'
-  },
-   {
-    id: 'komentar',
-    title: 'Hapus Komentar',
-    price: '150rb',
-    originalPrice: '350rb',
-    description: 'Hapus Komentar Negatif di sosial media jaga reputasi mu!',
-    features: ['Instagram', 'Facebook', 'Google Maps', 'Threads'],
-    badge: 'TERMURAH',
-    category: 'social'
-  },
-  {
-    id: 'hapus-situs-blog',
+    id: 'hapus-situs',
     title: 'Hapus Situs Blog',
     price: '400rb',
-    description: 'Hapus Situs Blog yang mengganggu sekarang!',
-    features: ['Blog Pribadi', 'Blog Berita', 'Blog Company', 'Blog Portofolio'],
+    description: 'Hapus situs blog yang mengganggu.',
+    features: ['Blog Pribadi', 'Blog Berita', 'Company Blog', 'Portofolio'],
     badge: 'HOT SALE',
     category: 'web'
   },
   {
-    id: 'hapus-situs-wordpress',
-    title: 'Hapus Situs Wordpress',
+    id: 'hapus-wordpress',
+    title: 'Hapus Situs WordPress',
     price: '400rb',
-    description: 'Hapus situs Wordpress sekarang!',
-    features: ['Situs Berita', 'Situs Pribadi', 'Situs Company', 'Situs Portofolio'],
+    description: 'Hapus situs WordPress secara permanen.',
+    features: ['Situs Pribadi', 'Company', 'Berita', 'Portofolio'],
     badge: 'TERPOPULER',
     category: 'web'
   },
+
+  // ================= SEO =================
   {
-    id: 'presentation',
-    title: 'Presentation',
-    price: '250rb',
-    description: 'Buat Presentasi cepat dalam hitungan menit!',
-    features: ['Buat Pekerjaan', 'Buat Sekolah', 'Buat Kuliah', 'Buat Meeting'],
-    badge: 'NEW',
-    category: 'web'
-  },
-  
-  // SEO Category
-  {
-    id: 'search-engine-optimization',
+    id: 'seo',
     title: 'Search Engine Optimization',
     price: '550rb',
-    description: '',
+    description: 'Optimasi website agar tampil di halaman pertama Google.',
     features: ['SEO Web', 'SEO Artikel', 'Technical SEO', 'SEO Lokal'],
     badge: 'TERLARIS',
     category: 'seo'
@@ -169,34 +131,19 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Backlink',
     price: '700rb',
     originalPrice: '1jt',
-    description: '',
-    features: ['Blog Pribadi', 'Situs Retail', 'Situs Teknologi', 'Situs Berita'],
+    description: 'Backlink berkualitas untuk menaikkan ranking.',
+    features: ['Blog', 'Retail', 'Teknologi', 'Berita'],
     badge: 'TERMURAH',
     category: 'seo'
   },
+
+  // ================= SUPPORT =================
   {
-    id: 'remove-search-engine',
-    title: 'Remove Search Engine',
-    price: '400rb',
-    originalPrice:'500rb',
-    description: '',
-    features: [
-      'Hapus Identitas di Google', 
-      'Hapus Akun Sosmed di Google', 
-      'Hapus Konten/Web Kriminal/Porn', 
-      'Situs Judi Online'
-    ],
-    badge: 'TERPOPULER',
-    category: 'seo'
-  },
-  
-  // Support Category
-  {
-    id: 'recovery-files',
-    title: 'Recovery Files',
+    id: 'recovery',
+    title: 'Recovery File',
     price: '250rb',
-    description: '',
-    features: ['Flashdisk / Sd Card', 'JPG,PNG', 'Pdf,Docx', 'MP4 All Format'],
+    description: 'Pemulihan data yang terhapus.',
+    features: ['Flashdisk / SD Card', 'JPG, PNG', 'PDF, DOCX', 'MP4'],
     badge: 'TERLARIS',
     category: 'support'
   },
@@ -204,39 +151,19 @@ export const pricingPlans: PricingPlan[] = [
     id: 'it-consultant',
     title: 'IT Consultant',
     price: 'N/A',
-    description: '',
-    features: ['Cyber Crime', 'Penipuan', 'Pemerasan', 'Scamming'],
+    description: 'Konsultasi masalah IT & cyber crime.',
+    features: ['Penipuan', 'Scamming', 'Pemerasan', 'Cyber Crime'],
     badge: 'HOT SALE',
     category: 'support'
   },
+
+  // ================= AI =================
   {
-    id: 'trouble-software',
-    title: 'Trouble Software',
+    id: 'ai',
+    title: 'Artificial Intelligence',
     price: '250rb',
-    description: '',
-    features: ['Instalasi OS', 'Upgrade OS', 'Activasi Office', 'Activasi Windows 11'],
-    badge: 'TERMURAH',
-    category: 'support'
-  },
-  
-  // Digital Marketing Category
-  {
-    id: 'digital-marketing',
-    title: 'Digital Marketing',
-    price: '250rb',
-    description: '',
-    features: ['Email Marketing', 'SEM Sosial Media', 'SEO Sosial Media', 'Press Release'],
-    badge: 'TERMURAH',
-    category: 'marketing'
-  },
-  
-  // AI Category
-  {
-    id: 'artificial-intelligence',
-    title: 'Artificial Intelligence (AI)',
-    price: '250rb',
-    description: '',
-    features: ['Buat Gambar Custom', 'Coding Website', 'Buat Dokumen', 'Buat Artikel'],
+    description: 'Layanan AI untuk kebutuhan digital.',
+    features: ['Buat Gambar', 'Coding', 'Dokumen', 'Artikel'],
     badge: 'NEW',
     category: 'ai'
   }
