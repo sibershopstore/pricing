@@ -21,6 +21,15 @@ export const pricingPlans: PricingPlan[] = [
     badge: 'TERLARIS'
   },
   {
+    id: 'fb-ig-x',
+    title: 'Hapus Akun Negatif',
+    price: 'N/A',
+    description: 'Hapus Akun Negatif Sekarang!',
+    features: ['Instagram', 'Facebook', 'Privacy 100%'],
+    category: 'social',
+    badge: 'TERLARIS'
+  },
+  {
     id: 'linkedin',
     title: 'LinkedIn',
     price: '200rb',
