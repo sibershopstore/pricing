@@ -71,7 +71,7 @@ export const pricingPlans: PricingPlan[] = [
     title: 'Hapus Pencarian di Google',
     price: '6jt',
     originalPrice: '9jt',
-    description: 'Hapus Artikel/situs yang menganggu di pencarian google!',
+    description: 'Hapus Artikel/situs yang mengganggu di pencarian google!',
     features: ['Situs Berita', 'Situs Pengadilan', 'Privacy 100%', 'Tim Legal'],
     badge: 'TERLARIS',
     category: 'social'
