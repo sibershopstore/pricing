@@ -218,7 +218,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'recovery-file',
     title: 'Recovery File',
-    price: '250rb',
+    price: '450rb',
     description: 'Pulihkan data terhapus',
     features: ['Flashdisk', 'SD Card', 'Dokumen', 'Video'],
     badge: 'TERLARIS',
