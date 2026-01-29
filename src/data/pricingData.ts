@@ -27,7 +27,7 @@ export const pricingPlans: PricingPlan[] = [
     description: 'Hapus Akun Negatif Sekarang!',
     features: ['Instagram', 'Facebook', 'Privacy 100%'],
     category: 'social',
-    badge: 'TERLARIS'
+    badge: 'HOT SALE'
   },
   {
     id: 'linkedin',
