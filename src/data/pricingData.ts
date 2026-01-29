@@ -206,11 +206,12 @@ export const pricingPlans: PricingPlan[] = [
 
   // ================= SUPPORT =================
   {
-    id: 'monitoring-reputasi',
-    title: 'Monitoring Reputasi Digital',
-    price: '1jt',
-    description: 'Pantau reputasi online',
-    features: ['Google Alert', 'Media Sosial', 'Laporan', 'Support'],
+    id: 'remove-search',
+    title: 'Remove Search',
+    price: '400rb',
+    originalPrice: '700rb',
+    description: 'Hapus Situs yang telah dihapus',
+    features: ['Postingan Sosmed', 'Artikel Situs', 'Laporan', 'Support'],
     badge: 'HOT SALE',
     category: 'support'
   },
