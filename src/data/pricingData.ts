@@ -130,7 +130,7 @@ export const pricingPlans: PricingPlan[] = [
     id: 'hapus-situs-wordpress',
     title: 'Hapus Situs Wordpress',
     price: '400rb',
-    description: '',
+    description: 'Hapus situs Wordpress sekarang!',
     features: ['Situs Berita', 'Situs Pribadi', 'Situs Company', 'Situs Portofolio'],
     badge: 'TERPOPULER',
     category: 'web'
@@ -139,7 +139,7 @@ export const pricingPlans: PricingPlan[] = [
     id: 'presentation',
     title: 'Presentation',
     price: '250rb',
-    description: '',
+    description: 'Buat Presentasi cepat dalam hitungan menit!',
     features: ['Buat Pekerjaan', 'Buat Sekolah', 'Buat Kuliah', 'Buat Meeting'],
     badge: 'NEW',
     category: 'web'
