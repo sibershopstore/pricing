@@ -39,6 +39,15 @@ export const pricingPlans: PricingPlan[] = [
     category: 'social'
   },
   {
+    id: 'soundcloud-pinterest',
+    title: 'SoundCloud / Pinterest',
+    price: '150rb',
+    description: 'Hapus akun platform kreator',
+    features: ['Proses Cepat', 'Privacy 100%', 'Legal', 'Support'],
+    badge: 'NEW',
+    category: 'social'
+  },
+  {
     id: 'tiktok',
     title: 'TikTok',
     price: '250rb',
@@ -106,6 +115,15 @@ export const pricingPlans: PricingPlan[] = [
     badge: 'TERPOPULER',
     category: 'web'
   },
+  {
+    id: 'presentation',
+    title: 'Presentation',
+    price: '250rb',
+    description: 'Presentasi cepat profesional',
+    features: ['Kerja', 'Sekolah', 'Kuliah', 'Meeting'],
+    badge: 'NEW',
+    category: 'web'
+  },
 
   // ================= SEO =================
   {
@@ -125,6 +143,16 @@ export const pricingPlans: PricingPlan[] = [
     description: 'Backlink berkualitas aman',
     features: ['Blog', 'Retail', 'Teknologi', 'Berita'],
     badge: 'TERMURAH',
+    category: 'seo'
+  },
+  {
+    id: 'remove-search-engine',
+    title: 'Remove Search Engine',
+    price: '400rb',
+    originalPrice: '500rb',
+    description: 'Hapus identitas google',
+    features: ['Data Pribadi', 'Akun Sosmed', 'Konten Negatif', 'Situs Judi'],
+    badge: 'TERPOPULER',
     category: 'seo'
   },
 
@@ -155,6 +183,17 @@ export const pricingPlans: PricingPlan[] = [
     features: ['Penipuan', 'Scamming', 'Pemerasan', 'Cyber Crime'],
     badge: 'HOT SALE',
     category: 'support'
+  },
+
+  // ================= MARKETING =================
+  {
+    id: 'digital-marketing',
+    title: 'Digital Marketing',
+    price: '250rb',
+    description: 'Promosi bisnis digital',
+    features: ['Email Marketing', 'SEM', 'SEO Sosmed', 'Press Release'],
+    badge: 'TERMURAH',
+    category: 'marketing'
   },
 
   // ================= AI =================
