@@ -26,7 +26,7 @@ export const pricingPlans: PricingPlan[] = [
     price: '1,5jt',
     originalPrice: '5jt',
     description: 'Hapus konten penipuan',
-    features: ['Akun Palsu', 'Konten Scam', 'Brand Protection', 'Privacy'],
+    features: ['Akun Palsu', 'Konten bullying', 'Konten Penipuan', 'Privacy'],
     badge: 'TERLARIS',
     category: 'social'
   },
