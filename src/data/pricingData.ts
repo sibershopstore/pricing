@@ -23,7 +23,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'take-down-konten-palsu',
     title: 'Take Down Konten Palsu',
-    price: '3,5jt',
+    price: '1,5jt',
     originalPrice: '5jt',
     description: 'Hapus konten penipuan',
     features: ['Akun Palsu', 'Konten Scam', 'Brand Protection', 'Privacy'],
@@ -51,7 +51,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     id: 'hapus-akun-negatif',
     title: 'Hapus Akun Negatif',
-    price: 'N/A',
+    price: '3,5jt',
     description: 'Penanganan akun bermasalah',
     features: ['Instagram', 'Facebook', 'Analisa Kasus', 'Privacy'],
     badge: 'HOT SALE',
