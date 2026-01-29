@@ -47,6 +47,15 @@ export const pricingPlans: PricingPlan[] = [
     badge: 'NEW',
     category: 'social'
   },
+   {
+    id: 'scribd',
+    title: 'Hapus Dokumen Scribd',
+    price: '250rb',
+    description: 'Hapus Dokumen sensitif sekarang!',
+    features: ['Dokumen Pribadi', 'Dokumen Perusahaan', 'Dokumen Negatif'],
+    badge: 'HOT SALE',
+    category: 'web'
+  },
   {
     id: 'hapus-data-getcontact',
     title: 'Hapus Data Getcontact',
