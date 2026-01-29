@@ -12,6 +12,24 @@ export const pricingPlans: PricingPlan[] = [
     category: 'social'
   },
   {
+    id: 'hapus-konten-viral',
+    title: 'Hapus Konten Viral',
+    price: '1jt',
+    description: 'Hapus konten merugikan',
+    features: ['Media Sosial', 'Portal Berita', 'Analisa Kasus', 'Privacy'],
+    badge: 'HOT SALE',
+    category: 'social'
+  },
+  {
+    id: 'take-down-konten-palsu',
+    title: 'Take Down Konten Palsu',
+    price: '750rb',
+    description: 'Hapus konten penipuan',
+    features: ['Akun Palsu', 'Konten Scam', 'Brand Protection', 'Privacy'],
+    badge: 'TERLARIS',
+    category: 'social'
+  },
+  {
     id: 'fb-ig',
     title: 'FB & Instagram',
     price: '300rb',
